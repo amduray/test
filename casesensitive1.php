@@ -3,8 +3,8 @@
 <body>
 
 <?php
-echo "Hello Boy!<br>";
-echo "Hello Girl!<br>";
+echo "Hello gaes!<br>";
+echo "Hello semua!<br>";
 echo "Hello Gay!<br>";
 ?>
 
